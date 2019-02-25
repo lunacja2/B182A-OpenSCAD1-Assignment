@@ -17,7 +17,7 @@
 | --------------------------------------- | ------------------------------------------- |
 | [Wall hook](STLs/wall_hook.stl)         | ![Wall hook](assets/wall_hook.png)          |
 | [Snowman](STLs/snowman.stl)             | ![Snowman](assets/snowman.png)              |
-| [Simcard adapter](STLs/sim.stl)         | ![Simcard adapter](assets/sim.png)          |
+| [Simcard adapter](STLs/sim_card.stl)    | ![Simcard adapter](assets/sim.png)          |
 | [Plate](STLs/plate.stl)                 | ![Plate](assets/plate.png)                  |
 | [Pen holder](STLs/pen_holder.stl)       | ![Pen holder](assets/pen_holder.png)        |
 | [Mug](STLs/mug.stl)                     | ![Mug](assets/mug.png)                      |
